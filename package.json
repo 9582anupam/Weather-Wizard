@@ -1,0 +1,32 @@
+{
+  "name": "weather-wizard",
+  "version": "1.0.0",
+  "description": "A Telegram bot that provides real-time weather updates and forecasts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/9582anupam/Weather-Wizard.git"
+  },
+  "keywords": [
+    "bot",
+    "telegram",
+    "node",
+    "javascript",
+    "api",
+    "weather"
+  ],
+  "author": "Anupam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/9582anupam/Weather-Wizard/issues"
+  },
+  "homepage": "https://github.com/9582anupam/Weather-Wizard#readme",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "telegraf": "^4.16.3"
+  },
+  "type": "module"
+}
